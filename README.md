@@ -1,5 +1,8 @@
 # Citymo - Recherche Immobilière à Paris
-![image](https://github.com/user-attachments/assets/1f2a97f0-ae9f-42bd-8f89-b7d5bebcd61c)
+
+<p align="center">
+	<a href="https://github.com/clementjosse/Citymo"><img src="./citymo.gif" width="700"></a>
+</p>
 
 Projet fork depuis [https://github.com/WilliamVOTHANH/Citymo_front](https://github.com/WilliamVOTHANH/Citymo_front)
 
